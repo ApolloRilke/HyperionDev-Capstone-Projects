@@ -4,6 +4,14 @@ anotheruser, anotherpassword
 lili, lilipassword
 rusheil, killing
 thunder, road
-Julia Roberts, julia123
-lady gaga, ladygaga
-mary shelly, frankenstein
+achilles, patroclus
+odyssius, penelope
+scout, atticus
+newperson, newpassword
+another, another
+newuser, newpassword
+newuser1, newuser1
+user2, user2
+user22, user22
+admin1, admin1
+adminagain, adminagain
