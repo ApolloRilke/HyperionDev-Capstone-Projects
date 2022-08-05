@@ -1,4 +1,4 @@
-# HuperionDev-Capstone-Projects
+# HyperionDev-Capstone-Projects
 HyperionDev Software Engineering Bootcamp Capstone Projects.
 
 This repository serves to show case the Capstone projects that I have commpleted (or in progress) with 
